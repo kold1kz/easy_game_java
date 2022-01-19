@@ -63,8 +63,7 @@ public class Main extends JFrame {
         if(drop_top>game_window.getHeight()){
 
             g.drawImage(game_over,120,20,null);
-            //g.drawImage(game_over,120,20,null);
-            g.drawImage(restart_game,120,160,null);
+            //g.drawImage(restart_game,120,160,null);
         }
     }
 
